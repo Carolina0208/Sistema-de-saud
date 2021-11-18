@@ -1,2 +1,2 @@
-# Sistema-de-saud
+# Sistema-de-salud
 Carolina Ariza Tapias
